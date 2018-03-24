@@ -6,17 +6,17 @@ This is a monolithic library so linking to single library v8_monolith.lib will s
 
 Release library is compiled with following flags:
 
-is_debug = false
-enable_nacl = false
-enable_nacl_nonsfi = false
-icu_use_data_file = false
-is_component_build = false
-is_official_build = true
-msan_track_origins = 0
-symbol_level = 0
-use_udev = false
-v8_enable_i18n_support = false
-v8_use_external_startup_data = false
-v8_static_library = true
-v8_monolithic = true
-v8_use_snapshot = false
+is_debug = false  
+enable_nacl = false  
+enable_nacl_nonsfi = false  
+icu_use_data_file = false  
+is_component_build = false  
+is_official_build = true  
+msan_track_origins = 0  
+symbol_level = 0  
+use_udev = false  
+v8_enable_i18n_support = false  
+v8_use_external_startup_data = false  
+v8_static_library = true  
+v8_monolithic = true  
+v8_use_snapshot = false  
